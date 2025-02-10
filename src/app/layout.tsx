@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: "NewTube",
-    description: "NewTube is a new way to watch videos.",
+    description: "NewTube is the way to watch videos.",
 };
 
 export default function RootLayout({
